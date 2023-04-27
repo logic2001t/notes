@@ -1,0 +1,21 @@
+upgrading to new versions!
+
+first this command to know which version you got "lsb_release -a"
+
+then 
+
+"sudo apt update"
+then
+"sudo apt upgrade"
+then
+"sudo apt dist-upgrade"
+then
+"sudo apt install update-manager-core"
+then
+"sudo do-release-upgrade"
+then
+"sudo do-release-upgrade -d"
+then restart 
+then again 
+"sudo do-release-upgrade -d"
+

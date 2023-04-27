@@ -1,0 +1,9 @@
+instructions of installaions
+
+for installing .deb format we use the command after navigate the location of the app.deb on terminal the command "sudo dpkg -i vs.deb"
+
+that`s it !!
+
+
+
+and we use the command "sudo apt-get install -f" if we had any missed files to install 

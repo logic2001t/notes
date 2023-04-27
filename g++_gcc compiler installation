@@ -1,0 +1,3 @@
+compiler setup for vs code and c++/c:
+
+in the terminal write the command"sudo apt install gcc g++ clang gdb"
